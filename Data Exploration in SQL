@@ -1,4 +1,5 @@
 ## Ensuring the dataset includes the expected range of values
+
 SELECT
   *
 FROM
